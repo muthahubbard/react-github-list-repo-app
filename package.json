@@ -1,0 +1,32 @@
+{
+  "name": "react-github-list-repo-app",
+  "version": "1.0.0",
+  "description": "Next stage of my react learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthahubbard/react-github-list-repo-app.git"
+  },
+  "author": "Andy May",
+  "license": "ISC",
+  "devDependencies": {
+    "jspm": "^0.16.2"
+  },
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "alt": "npm:alt@^0.17.3",
+      "fetch": "npm:whatwg-fetch@^0.9.0",
+      "react": "npm:react@^0.13.3",
+      "react-router": "npm:react-router@^0.13.3"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.22",
+      "babel-runtime": "npm:babel-runtime@^5.8.20",
+      "core-js": "npm:core-js@^1.1.0"
+    }
+  }
+}

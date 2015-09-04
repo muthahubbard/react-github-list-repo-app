@@ -1,0 +1,848 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"RepoLi",
+				"RepoListItem"
+			],
+			[
+				"R",
+				"Route"
+			],
+			[
+				"tag",
+				"tagData〔variable〕"
+			],
+			[
+				"get",
+				"getState"
+			],
+			[
+				"co",
+				"contentClass"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"class",
+				"className〔variable〕"
+			],
+			[
+				"or",
+				"orginalApiData"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"api",
+				"apiData"
+			],
+			[
+				"search",
+				"searchText"
+			],
+			[
+				"sear",
+				"searchText"
+			],
+			[
+				"video",
+				"videoId"
+			],
+			[
+				"defa",
+				"defaultOptions〔variable〕"
+			],
+			[
+				"sc",
+				"screenshot"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"type",
+				"typeDropDownEl"
+			],
+			[
+				"selectd",
+				"selectedAppointmentType"
+			],
+			[
+				"day",
+				"dayClickEvent"
+			],
+			[
+				"avail",
+				"available"
+			],
+			[
+				"sele",
+				"selectedDay"
+			],
+			[
+				"select",
+				"selectedAppointmentType"
+			],
+			[
+				"sel",
+				"selectedAppointmentType"
+			],
+			[
+				"app",
+				"appointmentType"
+			],
+			[
+				"instance",
+				"instanceof〔keyword〕"
+			],
+			[
+				"selected",
+				"selectedAppointmentType〔variable〕"
+			],
+			[
+				"ap",
+				"appTypeId"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"map",
+				"map-merge	Sass-function"
+			],
+			[
+				"in",
+				"instanceof"
+			],
+			[
+				"compa",
+				"compareItemEffectEl"
+			],
+			[
+				"compare",
+				"compareItemWrapper"
+			],
+			[
+				"creat",
+				"createElement〔function〕"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"compar",
+				"compareWrapper"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"act",
+				"action__text"
+			],
+			[
+				"rem",
+				"removeIndex"
+			],
+			[
+				"cla",
+				"classie〔variable〕"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"product",
+				"productInfo"
+			],
+			[
+				"items",
+				"itemsAllowed"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"init",
+				"initEvents"
+			],
+			[
+				"ac",
+				"action__text"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"trans",
+				"transform"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/components/app.js",
+			"settings":
+			{
+				"buffer_size": 429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/components/repo-list-container.js",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Windows",
+				"name": "import 'React' from 'react'"
+			}
+		},
+		{
+			"file": "src/app/actions/repo-actions.js",
+			"settings":
+			{
+				"buffer_size": 235,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/components/repo-list.js",
+			"settings":
+			{
+				"buffer_size": 379,
+				"line_ending": "Windows",
+				"name": "import React from 'react'"
+			}
+		},
+		{
+			"file": "src/app/components/repo-list-item.js",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Pack",
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Sass",
+				"SassBeautify"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"JSLint",
+				"JSLint"
+			],
+			[
+				"Package Control In",
+				"Package Control: Install Package"
+			],
+			[
+				"Mardoen",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/components",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/stores"
+	],
+	"file_history":
+	[
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/stores/repo-store.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/index.html",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/data/api.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/components/search-bar-container.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/components/search-bar.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/main.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/alt.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/src/app/components/SearchBar.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/react-github-list-repo-app.sublime-project",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/index.html",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/package.json",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/config.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/package.json",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/app.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/api.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-github-list-repo-app/.gitignore",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/stores/my-store.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/actions/my-actions.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/list-container.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/details.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/main.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/sources/my-data-source.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/altContainerTest.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/list.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/altContainerComponent.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/gulpfile.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/search-bar.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/css/src/main.css",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/css/dist/main.css",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/css/main.css",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/README.md",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/dist/css/main.css",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/alt.js",
+		"/C/Projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/lib/script/lbi/LBI.viewMap.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/flux/actions.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/flux/dispatcher.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-router/examples/animations/app.css",
+		"/C/Users/Andrew May/Documents/GitHub/react-router/examples/animations/app.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/sass/main.scss",
+		"/C/Users/Andrew May/Documents/GitHub/react-router/examples/transitions/app.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/filter-data-button.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-router/examples/master-detail/app.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-router/package.json",
+		"/C/Users/Andrew May/Documents/GitHub/react-router/examples/master-detail/index.html",
+		"/C/Users/Andrew May/Documents/GitHub/react-router/examples/dynamic-segments/app.js",
+		"/C/Users/Andrew May/Documents/GitHub/react-router/examples/async-data/app.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/dist/index.html",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/dist/app.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/filter-data-button",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/.gitignore",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/first-react-app.sublime-project",
+		"/C/Projects/sublime-projects/barratt.sublime-project",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/ListContainer.js",
+		"/C/Users/Andrew May/Documents/GitHub/first-react-app/app/index.html",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/Behaviors/sub-page-navigation.js",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/global.js",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/Behaviors/youtube.js",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/Behaviors/vimeo.js",
+		"/C/Projects/barratt-developments.hg/id_build/karma.conf.js",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Modules/_admin-impersonation-bar.scss",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/Behaviors/tabbed-content.js",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/main.js",
+		"/C/Projects/playground/webpack/index.html",
+		"/C/Projects/playground/webpack/index.js",
+		"/C/Projects/playground/webpack/jquery-buttons.js",
+		"/C/Projects/playground/webpack/buttons.css",
+		"/C/Projects/playground/webpack/webpack.config.js",
+		"/C/Projects/playground/webpack/bundle.js",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/GruntFile.js",
+		"/C/Users/Andrew May/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/Behaviors/map-search.js",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/Behaviors/map-location.js",
+		"/C/Projects/playground/css-reggression-testing/demo/testsuite.js",
+		"/C/EPiServer/Sites/barratt.local/assets/web/theme_dwh/style/overrides.css",
+		"/C/Users/Andrew May/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Projects/barratt-developments.hg/London/BarrattDevelopments.Web/Static/Scripts/Components/infobox.js",
+		"/C/Projects/playground/css-reggression-testing/demo/coffeemachine.html",
+		"/C/Projects/playground/backstopjs-test/backstop.json",
+		"/C/EPiServer/Sites/barratt.local/htmlTemplates/WEBBAU-700.aspx",
+		"/C/slimerjs/README.md",
+		"/C/EPiServer/Sites/barratt.local/assets/js/formValidation.js",
+		"/C/Projects/playground/perfbudget/Gruntfile.js",
+		"/C/Projects/playground/css-reggression-testing/wraith/hello.js",
+		"/C/Projects/playground/css-reggression-testing/wraith/hello-casper.js",
+		"/C/Projects/playground/perfbudget/package.json",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/_Sass/Generic/Base/Modules/_primaryCTA.scss",
+		"/C/rubydevkit/config.yml",
+		"/C/Projects/playground/svg-spite-demo/package.json",
+		"/C/Projects/playground/grunt-perfbudget/Gruntfile.js",
+		"/C/Projects/playground/grunt-perfbudget/package.json",
+		"/C/Projects/playground/svg-spite-demo/Gruntfile.js",
+		"/C/Projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/js/formValidation.js",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/lib/script/lbi/postcode.js",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Themes/DWH/Components/_admin-impersonation-bar.scss",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Themes/BAR/main.scss",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Modules/_header.scss",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Themes/BAR/Modules/_header.scss",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/gruntfile.js",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/config-global.scss",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Themes/BAR/Modules/_admin-impersonation-bar.scss",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/main.scss",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Modules/_all.scss",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Modules/_impersonation-bar.scss",
+		"/C/Users/Andrew May/Desktop/zone-logo.svg",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/_Sass/DWH/Modules/Legacy/_my_account.scss",
+		"/C/EPiServer/Sites/Logs/LBi.BarrattDevelopments.Web/EPiServerErrorLog.txt",
+		"/C/Users/Andrew May/Desktop/hosts",
+		"/C/Projects/barratt-developments.hg/id_build/GruntFile.js",
+		"/C/Projects/customer-extras/BarrattDevelopments.CustomerExtras.Web/Static/Sass/Components/_tabs.scss",
+		"/C/Projects/customer_extras/.hg/hgrc",
+		"/C/Projects/barratt-developments.hg/.hg/hgrc",
+		"/C/Users/Andrew May/Desktop/onsite-facilities.svg",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/js/formValidation.js",
+		"/C/projects/barratt-developments.hg/id_build/GruntFile.js",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/lib/script/BarrattDevelopments/AppointmentBooking.js",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/lib/script/third_party/concat/jquery.flyweightcustomselect.min.js",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/lib/script/lbi/LBI.common.js",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/_Sass/Generic/Modules/AppointmentBooking/_booking-calendar.scss",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/lib/script/lbi/LBI.jquery.dialogue.js",
+		"/C/projects/barratt-developments.hg/LBi.BarrattDevelopments.Web/assets/web/lib/script/lbi/LBI.init.js",
+		"/C/Users/Andrew May/mercurial.ini",
+		"/C/Users/Andrew May/Downloads/icomoon_9_icons/style.css",
+		"/C/Users/Andrew May/Downloads/icomoon_9_icons/demo.html",
+		"/C/Users/Andrew May/Downloads/icomoon_9_icons/svgdefs.svg",
+		"/C/Projects/playground/svg-spite-demo/svg/apartment.svg",
+		"/C/Projects/playground/svg-spite-demo/index.html",
+		"/C/Projects/playground/svg-spite-demo/css/sprites/icon-sprite.svg",
+		"/C/Users/Andrew May/Downloads/noun_144805_cc.svg"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"C:\\Users\\Andrew May\\Documents\\GitHub\\first-react-app\\app",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\lib",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\lib\\script",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\lib\\script\\lbi",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\lib\\script",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\_Sass",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\lib\\script\\lbi",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\lib\\script",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\lib\\script\\lbi",
+			"C:\\Projects\\barratt-developments.hg\\London\\BarrattDevelopments.Web\\Static\\Sass",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\_Sass",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\_Sass\\BAR",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\_Sass",
+			"C:\\projects\\barratt-developments.hg\\LBi.BarrattDevelopments.Web\\assets\\web\\_Sass\\Site"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"api.js",
+			"my-store",
+			"create",
+			"alt.js",
+			"var",
+			"Brian",
+			"env",
+			"sub",
+			"devkit",
+			"exe",
+			"pointer",
+			"Choices",
+			"dis",
+			"console.log",
+			"flyweightCustomSelect",
+			"fwSelect",
+			"peSelect",
+			"select",
+			"peSelect",
+			"slotCollection",
+			"selectedSlot",
+			"console",
+			"requestAvailableDays",
+			"getAvailableDays",
+			"selectedSlot",
+			"pubsub",
+			"updateFormFields",
+			"console",
+			"updateFormFields",
+			"highlightCurrentSlot",
+			"$submitButton",
+			"getAva",
+			"toggleUnavailableClass",
+			"class",
+			"classs",
+			"selected",
+			"getAvailableSlots",
+			"availableDaysRequest",
+			"availableDays",
+			"getAvailableDays",
+			"initializeCalendar",
+			"getCurrentMonthDates",
+			"requestAvailableDays",
+			"availableDays",
+			"getAvailableDays",
+			"initializeCalendar",
+			"checkCurrentMonthCallback",
+			"getCurrentMonthDates",
+			"getAvailableDays",
+			"initializeCalendar",
+			"getAvailableDays",
+			"initializeCalendar",
+			"getCurrentMonthDates",
+			"booking-form__calendar",
+			"booking-form__body",
+			"on",
+			"bind",
+			"init",
+			"checkCurrentMonthCallback",
+			"andys",
+			"txtPostcode",
+			"focusOut",
+			"focus",
+			"focusOut",
+			"c:",
+			"$cc-list-values",
+			"contact-console-list",
+			"contact-console__list",
+			"contact-console",
+			"#d3ea3c",
+			"$bar-grey-pale-4",
+			".js",
+			"@include development-video",
+			"development-video",
+			"',\n",
+			"developments",
+			"trans",
+			"watchSass",
+			"();\n",
+			">\n",
+			"site",
+			"a",
+			"local"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/components/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/components/repo-list-container.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								115
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "import 'React' from 'react'",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/actions/repo-actions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/components/repo-list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "import React from 'react'",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/components/repo-list-item.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 23.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 486.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "react-github-list-repo-app.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"BAU Assets\\lib\\script\\BarrattDevelopments\\Behaviors.js"
+			],
+			[
+				"beha",
+				"BAU Assets\\lib\\script\\BarrattDevelopments\\Behaviors.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\sublime-projects\\london.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 696.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
